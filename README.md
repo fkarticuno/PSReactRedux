@@ -14,3 +14,7 @@
 - get vs code
 - get prettier
 - copy 'before from ex03'
+- npm i
+- update files
+- fail to launch ('webpack-dev-server' is not recognized as an internal or external command) > troubleshoot via stack overflow for 30min > delete work and copy/pasta from 'after ex03'
+- succeed launch 

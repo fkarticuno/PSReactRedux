@@ -7,3 +7,10 @@
 - ESLint
 - WebPack
 - npm scripts
+
+
+## TTD
+- get node
+- get vs code
+- get prettier
+- copy 'before from ex03'
